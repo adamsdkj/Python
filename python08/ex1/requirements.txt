@@ -1,0 +1,5 @@
+# ex01/requirements.txt
+pandas
+numpy
+matplotlib
+requests
